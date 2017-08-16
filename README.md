@@ -30,4 +30,4 @@ Tips to improve your application :
 - Document how to run your project or run tests. (easier for us to evaluate)
 
 
-Good Luck :fingers_crossed:
+Good Luck :v:
